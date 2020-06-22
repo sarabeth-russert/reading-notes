@@ -3,6 +3,7 @@
 #### Day 1
 
 **The Growth Mindset**
+
 We define *mindset* as self-perception or self-thery that people hold about themselves. The idea of a *growth mindset* is the belief that basic ability (talent and intelligence) can be developed through dedication and hardwork. In oposition a *fixed mindset* holds that our intelligence and talent are fixed traits and you are doomed to stay exactly where you currently are for the rest of your life. 
 We have all probably witnessed this *fixed mindset* to be untrue in our own lives, as we have grown in fitness, improved at a skill, or learned a new talent many times throughout our lives already. We can prepare our brains for learning more rapidly by embracing the concepts of *growth mindset*.
 1. Embrace Challenges
