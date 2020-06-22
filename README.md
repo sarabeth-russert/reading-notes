@@ -1,5 +1,5 @@
 # Reading Notes
-## Code 201
+## Code 102
 #### Day 1
 
 **The Growth Mindset**
