@@ -5,6 +5,7 @@
 **Sara Russert**
 
 Future Disney Imagineer transitioning from a career as a personal fitness trainer, with a history of competitive powerlifting and bodybuilding. I have a passion for figuring out how everything works so I can make it. I am excited about the future of robotics in the entertainment industry and interested in theme design and environmental staging. I love cookies and dogs.
+
 Here you can find my [GitHub profile](https://github.com/sarabeth-russert)
 #### Day 1
 
