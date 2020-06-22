@@ -18,3 +18,5 @@ We have all probably witnessed this *fixed mindset* to be untrue in our own live
 - Do not view others as a threat. Either try to lift them up or allow their work to elevate you!
 
 I am super excited to keep the Growth Mindset as a focus in my future. I love to learn and there is so much to learn that anything that helps it go faster is awesome!
+
+![Here is a helpful infographic](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png "Growth Mindset")
