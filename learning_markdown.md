@@ -10,8 +10,8 @@ Style or Format | Markdown Code
 **Bold** | ** **
 *Italic* | * *
 ~~Strikethrough~~ | ~~ ~~
-**Bold and _italic_** | ** _ _ **
-***All bold and italic*** | *** ***
+**Bold and _Italic_** | ** _ _ **
+***All Bold and Italic*** | *** ***
 Ordered Lists | 1. 2. 3.
 Unordered Lists | use -
 Links | `[link title](url)`
