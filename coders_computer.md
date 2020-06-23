@@ -2,7 +2,7 @@
 #### Day 1
 
 **The Coders Computer**
-Today we did all the installations required to begin our 102 course. One of the programs we installed is an **IDE** or *Integrated Development Environment* called [Visual Studio Code](https://code.visualstudio.com/). The reading explained the difference between a standard text editors and an IDE. An IDE provides text editing, file management, compiling, and debugging all in one place... a text editor just allows you to edit text. 
+Today we did all the installations required to begin our 102 course. One of the programs we installed is an **IDE** or *Integrated Development Environment* called [Visual Studio Code](https://code.visualstudio.com/). The reading explained the difference between a standard text editor and an IDE. An IDE provides text editing, file management, compiling, and debugging all in one place... a text editor just allows you to edit text. 
 
 Some of the other features provided by an IDE are:
 - Syntax Highlighting
