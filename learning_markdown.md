@@ -5,8 +5,8 @@
 Markdown is a light-weight markup language that we will be using with Github. Similar to HTML and CSS it controls how text appears visually on a webpage. Here are some handy references for future use:
 
 #### Markdown Cheatsheet
-Style or Format | Markdown Code
------------- | -------------
+| Style or Format | Markdown Code |
+| ------------ | ------------- |
 **Bold** | ** **
 *Italic* | * *
 ~~Strikethrough~~ | ~~ ~~
