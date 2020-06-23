@@ -20,4 +20,5 @@ I am super excited to keep the Growth Mindset as a focus in my future. I love to
 
 ![Here is a helpful infographic](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png "Growth Mindset")
 
+
 [Return to the Main Page](README.md)
