@@ -52,10 +52,4 @@ CSS3 has also added two more ways to denote color but they are not recognized by
 **Opacity** introduced in css3, allows you to specify the opacity of an element and it's children
 
 
-
-
-
-
-
-
 [Return to the Main Page](README.md)
