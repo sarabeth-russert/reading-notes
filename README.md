@@ -17,3 +17,5 @@ Here you can find my [GitHub profile](https://github.com/sarabeth-russert)
 - [Design Web Pages with CSS](design_web_pages_css.md)
 - [Dynamic Web Pages with Javascript](dynamic_web_pages_javascript.md)
 - [Computer Architecture and Logic](computer_architecture_logic.md)
+- [Programming with Javascript](programming_with_javascript.md)
+
