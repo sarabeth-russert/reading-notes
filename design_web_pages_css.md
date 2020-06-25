@@ -9,13 +9,13 @@ We use CSS to create rules that specify how the contents of an HTML element will
 
 CSS is written using a *selector* and one or more *declarations* composed of a *property* and a *value* which are sepparated using a *colon*.
 
-#### SELECTOR `{PROPERTY: VALUE;}`
+> SELECTOR `{PROPERTY: VALUE;}`
 
 **Combining your HTML and CSS**
 
 You can use the code `<link>` within the `<head>` tag to refer the browser to your css file. `<link>` is used in the following manner:
 
-#### `<link href="filename.css" type="text/css" rel="stylesheet" />`
+>`<link href="filename.css" type="text/css" rel="stylesheet" />`
 
 Some additional notes
 - If there is more than one instance of a rule that applies to the same element the last rule will override the others.
