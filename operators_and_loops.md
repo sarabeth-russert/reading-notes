@@ -15,7 +15,7 @@ Comparison Operators evaluate conditions
 
 Logical Operators allow you to compare the results of one or more comparison operators
 - && logical and
-- || logical or
+- `||` logical or
 - ! logical not
 
 *operands* surround the operator
