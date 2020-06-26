@@ -18,4 +18,5 @@ Here you can find my [GitHub profile](https://github.com/sarabeth-russert)
 - [Dynamic Web Pages with Javascript](dynamic_web_pages_javascript.md)
 - [Computer Architecture and Logic](computer_architecture_logic.md)
 - [Programming with Javascript](programming_with_javascript.md)
+- [Operators and Loops](operators_and_loops.md)
 
