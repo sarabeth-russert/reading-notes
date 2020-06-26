@@ -37,11 +37,11 @@ Can make lots of content more dynamic
 
 > Declare a Function 
 
-> function functionName(parameters) {block of code;}
+> `function functionName(parameters) {block of code;}`
 
 >Call a Function
 
->functionName(argument);
+>`functionName(argument);`
 
 
 
