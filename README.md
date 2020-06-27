@@ -9,6 +9,8 @@ Future Disney Imagineer transitioning from a career as a personal fitness traine
 Here you can find my [GitHub profile](https://github.com/sarabeth-russert)
 
 #### Table of Contents
+**Code 102**
+**June 22 - June 26**
 - [The Growth Mindset](growth-mindset.md)
 - [Learning Markdown](learning_markdown.md)
 - [The Coders Computer](coders_computer.md)
@@ -20,3 +22,5 @@ Here you can find my [GitHub profile](https://github.com/sarabeth-russert)
 - [Programming with Javascript](programming_with_javascript.md)
 - [Operators and Loops](operators_and_loops.md)
 
+**Self Study**
+- [The Increment Operator](https://sarabeth-russert.github.io/self-study-notes/increment_operator)
