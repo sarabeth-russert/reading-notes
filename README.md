@@ -24,3 +24,4 @@ Here you can find my [GitHub profile](https://github.com/sarabeth-russert)
 
 **Self Study**
 - [The Increment Operator](https://sarabeth-russert.github.io/self-study-notes/increment_operator)
+- [Function Arguments and Parameters](https://sarabeth-russert.github.io/self-study-notes/function_arguments)
