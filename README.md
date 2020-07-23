@@ -1,5 +1,5 @@
 # Reading Notes
-## Code 102
+## Code 201
 #### About me
 
 ***Sara Russert***
@@ -9,6 +9,27 @@ Future Disney Imagineer transitioning from a career as a personal fitness traine
 Here you can find my [GitHub profile](https://github.com/sarabeth-russert)
 
 #### Table of Contents
+**Code 201**
+- Assignment 1
+- Assignment 2
+- Assignment 3
+- Assignment 4
+- Assignment 5
+- Assignment 6
+- Assignment 7
+- Assignment 8
+- Assignment 9
+- Assignment 10
+- Assignment 11
+- Assignment 12
+- Assignment 13
+- Assignment 14
+- Assignment 15
+
+**Self Study**
+- [The Increment Operator](https://sarabeth-russert.github.io/self-study-notes/increment_operator)
+- [Function Arguments and Parameters](https://sarabeth-russert.github.io/self-study-notes/function_arguments)
+
 **Code 102**
 **June 22 - June 26**
 - [The Growth Mindset](growth-mindset.md)
@@ -22,6 +43,3 @@ Here you can find my [GitHub profile](https://github.com/sarabeth-russert)
 - [Programming with Javascript](programming_with_javascript.md)
 - [Operators and Loops](operators_and_loops.md)
 
-**Self Study**
-- [The Increment Operator](https://sarabeth-russert.github.io/self-study-notes/increment_operator)
-- [Function Arguments and Parameters](https://sarabeth-russert.github.io/self-study-notes/function_arguments)
