@@ -11,7 +11,7 @@ Here you can find my [GitHub profile](https://github.com/sarabeth-russert)
 #### Table of Contents
 **Code 201**
 - [Prework for 201](class-01.md)
-- Assignment 2
+- [Class 2 Reading Notes](class-02.md)
 - Assignment 3
 - Assignment 4
 - Assignment 5
