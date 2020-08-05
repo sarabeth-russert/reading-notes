@@ -12,7 +12,7 @@ Here you can find my [GitHub profile](https://github.com/sarabeth-russert)
 **Code 201**
 - [Prework for 201](class-01.md)
 - [Class 2 Reading Notes](class-02.md)
-- Assignment 3
+- [Class 3 Reading Notes](class-03.md)
 - Assignment 4
 - Assignment 5
 - Assignment 6
