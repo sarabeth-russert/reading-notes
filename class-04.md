@@ -1,5 +1,5 @@
 ## Code 201
-#### Day 2
+#### Day 3
 
 **HTML & CSS Reading**
 
