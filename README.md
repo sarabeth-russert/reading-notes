@@ -18,7 +18,7 @@ Here you can find my [GitHub profile](https://github.com/sarabeth-russert)
 - [Weekend Reading Notes](class-06.md)
 - [Day 6 Reading Notes](class-07.md)
 - [Day 7 Reading Notes](class-08.md)
-- Assignment 9
+- [Day 8 Reading Notes](class-09.md)
 - Assignment 10
 - Assignment 11
 - Assignment 12
