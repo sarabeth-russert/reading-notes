@@ -1,5 +1,5 @@
 ## Code 201
-#### Day 1
+#### Weekend 8/15
 
 **HTML Reading Ch 16 - Images**
 
