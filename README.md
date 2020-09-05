@@ -9,6 +9,10 @@ Future Disney Imagineer transitioning from a career as a personal fitness traine
 Here you can find my [GitHub profile](https://github.com/sarabeth-russert)
 
 #### Table of Contents
+**Code 301**
+- [Prework for 301](301-read01.md)
+- 
+
 **Code 201**
 - [Prework for 201](class-01.md)
 - [Day 1 Reading Notes](class-02.md)
@@ -25,7 +29,6 @@ Here you can find my [GitHub profile](https://github.com/sarabeth-russert)
 - [Day 11 Reading Notes](class-13.md)
 - [Day 12 Reading Notes #1](class-14a.md)
 - [Day 12 Reading Notes #2](class-14b.md)
-- Assignment 15
 
 **Self Study**
 - [The Increment Operator](https://sarabeth-russert.github.io/self-study-notes/increment_operator)
