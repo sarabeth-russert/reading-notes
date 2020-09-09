@@ -12,6 +12,7 @@ Here you can find my [GitHub profile](https://github.com/sarabeth-russert)
 **Code 301**
 - [Prework for 301](301-read01.md)
 - [JQuery and Pair Programming](301-read02.md)
+- [MUSTACHE and FLEXBOX](301-read03.md)
 
 **Code 201**
 - [Prework for 201](class-01.md)
