@@ -15,6 +15,7 @@ Here you can find my [GitHub profile](https://github.com/sarabeth-russert)
 - [MUSTACHE and FLEXBOX](301-read03.md)
 - [CSS GRID](301-read04.md)
 - [Deploying to Heroku](301-read05.md)
+- [Node.js](301-read06.md)
 
 **Code 201**
 - [Prework for 201](class-01.md)
