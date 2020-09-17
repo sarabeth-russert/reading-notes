@@ -18,6 +18,7 @@ Here you can find my [GitHub profile](https://github.com/sarabeth-russert)
 - [Node.js](301-read06.md)
 - [APIs](301-read07.md)
 - [SQL](301-read08.md)
+- [Refactoring](301-read09.md)
 
 **Code 201**
 - [Prework for 201](class-01.md)
