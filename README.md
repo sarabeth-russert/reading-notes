@@ -22,6 +22,7 @@ Here you can find my [GitHub profile](https://github.com/sarabeth-russert)
 - [The Call Stack](301-read10.md)
 - [EJS and Google Books API](301-read11.md)
 - [EJS Partials](301-read12.md)
+- [Update/Delete](301-read13.md)
 
 
 **Code 201**
