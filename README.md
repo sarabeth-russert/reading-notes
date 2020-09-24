@@ -23,6 +23,7 @@ Here you can find my [GitHub profile](https://github.com/sarabeth-russert)
 - [EJS and Google Books API](301-read11.md)
 - [EJS Partials](301-read12.md)
 - [Update/Delete](301-read13.md)
+- [Database Normalization](301-read14.md)
 
 
 **Code 201**
