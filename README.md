@@ -11,7 +11,8 @@ Here you can find my [GitHub profile](https://github.com/sarabeth-russert)
 #### Table of Contents
 **Code 401**
 - [Prepwork for 401: Engineering Topics](401-prep.md)
-- [read](401-read01.md)
+- [Node Ecosystem, TDD, CI/CD](401-read01.md)
+- [Classes, Inheritance, Functional Programming](401-read02.md)
 
 
 **Code 301**
