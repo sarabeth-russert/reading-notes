@@ -13,6 +13,7 @@ Here you can find my [GitHub profile](https://github.com/sarabeth-russert)
 - [Prepwork for 401: Engineering Topics](401-prep.md)
 - [Node Ecosystem, TDD, CI/CD](401-read01.md)
 - [Classes, Inheritance, Functional Programming](401-read02.md)
+- [Data Modeling and NoSQL](401-read03.md)
 
 
 **Code 301**
