@@ -15,6 +15,7 @@ Here you can find my [GitHub profile](https://github.com/sarabeth-russert)
 - [Classes, Inheritance, Functional Programming](401-read02.md)
 - [Data Modeling and NoSQL](401-read03.md)
 - [Advanced Mongo/Mongoose](401-read04.md)
+- [HTTP and REST](401-read05.md)
 
 
 **Code 301**
