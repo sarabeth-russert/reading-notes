@@ -16,6 +16,8 @@ Here you can find my [GitHub profile](https://github.com/sarabeth-russert)
 - [Data Modeling and NoSQL](401-read03.md)
 - [Advanced Mongo/Mongoose](401-read04.md)
 - [HTTP and REST](401-read05.md)
+- [Express](401-read07.md)
+- [Express Routing & Connected API](401-read08.md)
 
 
 **Code 301**
