@@ -19,6 +19,7 @@ Here you can find my [GitHub profile](https://github.com/sarabeth-russert)
 - [Express](401-read07.md)
 - [Express Routing & Connected API](401-read08.md)
 - [API Server](401-read09.md)
+- [Authentication](401-read10.md)
 
 
 **Code 301**
