@@ -23,6 +23,7 @@ Here you can find my [GitHub profile](https://github.com/sarabeth-russert)
 - [Bearer Authorization](401-read11.md)
 - [OAuth](401-read13.md)
 - [Access Control](401-read14.md)
+- [Event Driven Applications](401-read16.md)
 
 
 **Code 301**
@@ -59,6 +60,7 @@ Here you can find my [GitHub profile](https://github.com/sarabeth-russert)
 - [Day 11 Reading Notes](class-13.md)
 - [Day 12 Reading Notes #1](class-14a.md)
 - [Day 12 Reading Notes #2](class-14b.md)
+
 
 **Self Study**
 - [The Increment Operator](https://sarabeth-russert.github.io/self-study-notes/increment_operator)
