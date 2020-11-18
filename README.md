@@ -28,6 +28,7 @@ Here you can find my [GitHub profile](https://github.com/sarabeth-russert)
 - [Socket.io](401-read18.md)
 - [Message Queues](401-read19.md)
 - [Component Based UI](401-read26.md)
+- [Props and State](401-read27.md)
 
 **Code 301**
 - [Prework for 301](301-read01.md)
