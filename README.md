@@ -31,6 +31,7 @@ Here you can find my [GitHub profile](https://github.com/sarabeth-russert)
 - [Props and State](401-read27.md)
 - [Component Composition](401-read28.md)
 - [Routing](401-read29.md)
+- [Hooks API](401-read31.md)
 
 **Code 301**
 - [Prework for 301](301-read01.md)
