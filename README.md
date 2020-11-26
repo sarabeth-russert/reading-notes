@@ -33,6 +33,7 @@ Here you can find my [GitHub profile](https://github.com/sarabeth-russert)
 - [Routing](401-read29.md)
 - [Hooks API](401-read31.md)
 - [Custom Hooks](401-read32.md)
+- [Context API](401-read33.md)
 
 **Code 301**
 - [Prework for 301](301-read01.md)
