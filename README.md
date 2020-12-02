@@ -35,6 +35,7 @@ Here you can find my [GitHub profile](https://github.com/sarabeth-russert)
 - [Custom Hooks](401-read32.md)
 - [Context API](401-read33.md)
 - [Application State with Redux](401-read36.md)
+- [Redux - Combined Reducers](401-read37.md)
 
 **Code 301**
 - [Prework for 301](301-read01.md)
