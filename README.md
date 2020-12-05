@@ -37,6 +37,7 @@ Here you can find my [GitHub profile](https://github.com/sarabeth-russert)
 - [Application State with Redux](401-read36.md)
 - [Redux - Combined Reducers](401-read37.md)
 - [Redux - Asynchronous Actions](401-read38.md)
+- [Redux - Additional Topics](401-read39.md)
 
 **Code 301**
 - [Prework for 301](301-read01.md)
