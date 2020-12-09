@@ -39,6 +39,7 @@ Here you can find my [GitHub profile](https://github.com/sarabeth-russert)
 - [Redux - Asynchronous Actions](401-read38.md)
 - [Redux - Additional Topics](401-read39.md)
 - [React Native](401-read41.md)
+- [Ethics in Tech](401-ethics.md)
 
 **Code 301**
 - [Prework for 301](301-read01.md)
